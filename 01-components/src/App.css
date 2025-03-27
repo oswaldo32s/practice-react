@@ -1,0 +1,95 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.followingBtn, .notFollowBtn {
+  border: 1px solid #DDD;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+
+.followingBtn:hover {
+ background-color: rgb(231, 73, 73);
+ border: 1px solid red;
+}
+
+.notFollowBtn:hover {
+  background-color: lightblue;
+  border: 1px solid white;
+  color: #252525;
+}
+
+.followCard {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.followCardProfileDetail {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.followCardProfilePic {
+  border-radius: 50%;
+  height: 4em;
+  width: 4em;
+}
+
+.followCardNameContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+}
+
+.followCardFullName {
+  font-size: 1em;
+  margin: 0;
+}
+
+.followCardUsername{
+  font-size: 0.9em;
+  margin: 0;
+}
