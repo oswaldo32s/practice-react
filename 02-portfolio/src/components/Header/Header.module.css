@@ -1,5 +1,4 @@
 .header {
-  position: fixed;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -35,6 +34,7 @@
 
 .menuList,
 .hiddenMenuList {
+  background-color: white;
   list-style: none;
   display: flex;
   align-items: center;
