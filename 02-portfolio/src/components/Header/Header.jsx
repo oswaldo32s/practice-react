@@ -1,5 +1,6 @@
 import styles from "./Header.module.css";
 import { useState } from "react";
+import { Link } from "react-router";
 
 export default function Header() {
   const [active, setActive] = useState(false);
@@ -11,16 +12,34 @@ export default function Header() {
   return (
     <header className={styles.header}>
       <section className={styles.titleSection}>
-        <h1 className={styles.longTitle}>Oswaldo Gonzalez</h1>
-        <h1 className={styles.shortTitle}>OG</h1>
+        <Link to="/" className={styles.titleSection}>
+          <h1 className={styles.longTitle}>Oswaldo Gonzalez</h1>
+          <h1 className={styles.shortTitle}>OG</h1>
+        </Link>
       </section>
       <section className={styles.menuSection}>
         <nav className={styles.navSection}>
           <ul className={active ? styles.menuList : styles.hiddenMenuList}>
-            <li className={styles.menuItem}>Home</li>
-            <li className={styles.menuItem}>About</li>
-            <li className={styles.menuItem}>Projects</li>
-            <li className={styles.menuItem}>Contact</li>
+            <li className={styles.menuItem} onClick={toggleMenu}>
+              <Link className={styles.link} to="/">
+                Home
+              </Link>
+            </li>
+            <li className={styles.menuItem} onClick={toggleMenu}>
+              <Link className={styles.link} to="/about">
+                About
+              </Link>
+            </li>
+            <li className={styles.menuItem} onClick={toggleMenu}>
+              <Link className={styles.link} to="/projects">
+                Projects
+              </Link>
+            </li>
+            <li className={styles.menuItem} onClick={toggleMenu}>
+              <Link className={styles.link} to="/contact">
+                Contact
+              </Link>
+            </li>
           </ul>
         </nav>
         <div className={styles.menuButtonSection}>

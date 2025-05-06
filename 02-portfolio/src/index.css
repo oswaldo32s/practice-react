@@ -12,3 +12,15 @@ html {
 body {
   margin: 0;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+@font-face {
+  font-family: "Pomoz";
+  src: url("./assets/fonts/PlaywriteDKLoopet-VariableFont_wght.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
