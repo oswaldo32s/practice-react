@@ -1,9 +1,15 @@
 .header {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   height: 60px;
   background-color: lightgray;
+}
+
+.container {
+  width: 100ch;
+  display: flex;
+  justify-content: space-between;
 }
 
 .titleSection {
