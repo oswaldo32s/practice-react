@@ -15,7 +15,7 @@ export default function Header() {
         <h1 className={styles.shortTitle}>OG</h1>
       </section>
       <section className={styles.menuSection}>
-        <nav>
+        <nav className={styles.navSection}>
           <ul className={active ? styles.menuList : styles.hiddenMenuList}>
             <li className={styles.menuItem}>Home</li>
             <li className={styles.menuItem}>About</li>

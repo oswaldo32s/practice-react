@@ -4,6 +4,7 @@
   display: flex;
   justify-content: space-between;
   height: 60px;
+  background-color: lightgray;
 }
 
 .titleSection {
@@ -36,13 +37,22 @@
 .hiddenMenuList {
   list-style: none;
   display: flex;
+  align-items: center;
   padding: 0;
   margin: 0;
+  height: 100%;
+}
+
+.navSection {
+  height: 100%;
 }
 
 .menuItem {
-  padding: 10px 20px;
+  padding: 0 20px;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 
 .menuItem:hover {
@@ -84,7 +94,8 @@
 
   .menuItem {
     width: 100%;
-    text-align: center;
+    justify-content: center;
+    height: 60px;
   }
 
   .menuButton {
