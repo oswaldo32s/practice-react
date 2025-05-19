@@ -1,0 +1,1146 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/71b944eb-ca32-5460-89a9-dc848a8c85c0",
+      "url": "https://www.nytimes.com/2025/04/18/business/trump-harvard-letter-mistake.html",
+      "id": 100000010118782,
+      "asset_id": 100000010118782,
+      "source": "New York Times",
+      "published_date": "2025-04-18",
+      "updated": "2025-04-28 15:00:10",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Federal Aid (US);United States Politics and Government;Colleges and Universities;Anti-Semitism;Legal Profession;Academic Freedom;Trump, Donald J;Harvard University",
+      "column": null,
+      "byline": "By Michael S. Schmidt and Michael C. Bender",
+      "type": "Article",
+      "title": "Trump Officials Blame Mistake for Setting Off Confrontation With Harvard",
+      "abstract": "An official on the administration’s antisemitism task force told the university that a letter of demands had been sent without authorization.",
+      "des_facet": [
+        "Federal Aid (US)",
+        "United States Politics and Government",
+        "Colleges and Universities",
+        "Anti-Semitism",
+        "Legal Profession",
+        "Academic Freedom"
+      ],
+      "org_facet": ["Harvard University"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Harvard was emailed a letter detailing demands by the Trump administration when administration lawyers were still willing to continue talks.",
+          "copyright": "Sophie Park/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0887c3d2-2a0f-5118-a5bb-40499adf1c36",
+      "url": "https://www.nytimes.com/2025/04/14/us/harvard-trump-reject-demands.html",
+      "id": 100000010109814,
+      "asset_id": 100000010109814,
+      "source": "New York Times",
+      "published_date": "2025-04-14",
+      "updated": "2025-04-25 00:04:48",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Power (US);Federal Aid (US);Colleges and Universities;Anti-Semitism;Foreign Students (in US);Diversity Initiatives;Academic Freedom;Trump, Donald J;Harvard University",
+      "column": null,
+      "byline": "By Vimal Patel",
+      "type": "Article",
+      "title": "Trump Administration Will Freeze $2 Billion After Harvard Refuses Demands",
+      "abstract": "Federal officials said they would freeze the money after Harvard said it would not submit to requests to overhaul hiring and report international students who break rules.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Power (US)",
+        "Federal Aid (US)",
+        "Colleges and Universities",
+        "Anti-Semitism",
+        "Foreign Students (in US)",
+        "Diversity Initiatives",
+        "Academic Freedom"
+      ],
+      "org_facet": ["Harvard University"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration demanded that Harvard report foreign students who commit campus conduct violations to the government.",
+          "copyright": "Sophie Park for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/15/multimedia/14nat-harvard-letter-sldf/15nat-university-weath-jflv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/15/multimedia/14nat-harvard-letter-sldf/15nat-university-weath-jflv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/15/multimedia/14nat-harvard-letter-sldf/15nat-university-weath-jflv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d413ff33-18ce-5627-a2d1-6db7e45dcfcc",
+      "url": "https://www.nytimes.com/2025/04/21/opinion/larry-david-hitler-dinner.html",
+      "id": 100000010117984,
+      "asset_id": 100000010117984,
+      "source": "New York Times",
+      "published_date": "2025-04-21",
+      "updated": "2025-04-24 19:17:17",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Comedy and Humor;Holocaust and the Nazi Era;Jews and Judaism;Hitler, Adolf",
+      "column": null,
+      "byline": "By Larry David",
+      "type": "Article",
+      "title": "Larry David: My Dinner With Adolf",
+      "abstract": "When a private meeting goes unexpectedly.",
+      "des_facet": [
+        "Comedy and Humor",
+        "Holocaust and the Nazi Era",
+        "Jews and Judaism"
+      ],
+      "org_facet": [],
+      "per_facet": ["Hitler, Adolf"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lia Darjes, \"Plate VII\"",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/25/opinion/21david1/21david1-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/25/opinion/21david1/21david1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/25/opinion/21david1/21david1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3bc4ce30-7bcd-514d-ba1b-30edc3c61f24",
+      "url": "https://www.nytimes.com/2025/04/20/us/politics/hegseth-yemen-attack-second-signal-chat.html",
+      "id": 100000010120446,
+      "asset_id": 100000010120446,
+      "source": "New York Times",
+      "published_date": "2025-04-20",
+      "updated": "2025-05-01 03:44:48",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Defense and Military Forces;Signal Chat Leak (Trump Administration);Classified Information and State Secrets;United States Politics and Government;War and Armed Conflicts;Hegseth, Pete;Trump, Donald J;Waltz, Michael (1974- );Parlatore, Timothy;Rauchet, Jennifer;Hegseth, Philip;Defense Department;Atlantic Monthly;Yemen",
+      "column": null,
+      "byline": "By Greg Jaffe, Eric Schmitt and Maggie Haberman",
+      "type": "Article",
+      "title": "Hegseth Said to Have Shared Attack Details in Second Signal Chat",
+      "abstract": "The defense secretary sent sensitive information about strikes in Yemen to an encrypted group chat that included his wife and brother, people familiar with the matter said.",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "Signal Chat Leak (Trump Administration)",
+        "Classified Information and State Secrets",
+        "United States Politics and Government",
+        "War and Armed Conflicts"
+      ],
+      "org_facet": ["Defense Department", "Atlantic Monthly"],
+      "per_facet": [
+        "Hegseth, Pete",
+        "Trump, Donald J",
+        "Waltz, Michael (1974- )",
+        "Parlatore, Timothy",
+        "Rauchet, Jennifer",
+        "Hegseth, Philip"
+      ],
+      "geo_facet": ["Yemen"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The information that Defense Secretary Pete Hegseth shared on the second Signal chat included the flight schedules for the F/A-18 Hornets targeting the Houthis in Yemen, according to some of the people familiar with the chat.",
+          "copyright": "Eric Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3c4dc971-f757-50b3-bb87-6b41a77f9d6a",
+      "url": "https://www.nytimes.com/article/next-pope-francis-candidates.html",
+      "id": 100000009999984,
+      "asset_id": 100000009999984,
+      "source": "New York Times",
+      "published_date": "2025-04-21",
+      "updated": "2025-05-08 21:16:15",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Popes;Cardinals (Roman Catholic Prelates);International Relations;Francis;Tagle, Luis Antonio G;Parolin, Pietro;Pizzaballa, Pierbattista;Zuppi, Matteo;Erdo, Peter;Arborelius, Anders;Roman Catholic Church",
+      "column": null,
+      "byline": "By The New York Times",
+      "type": "Article",
+      "title": "Who Will Be the Next Pope? Here Are Some Possible Contenders.",
+      "abstract": "Experts say there isn’t a single front-runner, but several names have been cited as indications of the direction the Roman Catholic Church might take.",
+      "des_facet": [
+        "Popes",
+        "Cardinals (Roman Catholic Prelates)",
+        "International Relations"
+      ],
+      "org_facet": ["Roman Catholic Church"],
+      "per_facet": [
+        "Francis",
+        "Tagle, Luis Antonio G",
+        "Parolin, Pietro",
+        "Pizzaballa, Pierbattista",
+        "Zuppi, Matteo",
+        "Erdo, Peter",
+        "Arborelius, Anders"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cardinals at Pope Francis’ funeral last month at St. Peter’s Basilica in Rome.",
+          "copyright": "James Hill for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pope-successors-sub-photo-pzgm/21pope-successors-sub-photo-pzgm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pope-successors-sub-photo-pzgm/21pope-successors-sub-photo-pzgm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pope-successors-sub-photo-pzgm/21pope-successors-sub-photo-pzgm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a7bc5279-afa2-5ff6-9326-b7a007d0b573",
+      "url": "https://www.nytimes.com/2025/05/07/us/politics/white-house-melania-absence.html",
+      "id": 100000010144489,
+      "asset_id": 100000010144489,
+      "source": "New York Times",
+      "published_date": "2025-05-07",
+      "updated": "2025-05-12 12:02:28",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "White House Building (Washington, DC);United States Politics and Government;First Ladies (US);audio-neutral-informative;Trump, Melania;Trump, Donald J;Mar-a-Lago (Palm Beach, Fla);Trump Tower (Manhattan, NY)",
+      "column": null,
+      "byline": "By Shawn McCreesh",
+      "type": "Article",
+      "title": "A Most Sensitive Subject in the White House: Where Is Melania?",
+      "abstract": "Mrs. Trump has spent fewer than 14 days at the White House since her husband was inaugurated 108 days ago.",
+      "des_facet": [
+        "White House Building (Washington, DC)",
+        "United States Politics and Government",
+        "First Ladies (US)",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [
+        "Mar-a-Lago (Palm Beach, Fla)",
+        "Trump Tower (Manhattan, NY)"
+      ],
+      "per_facet": ["Trump, Melania", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00dc-melania-01-thgq/00dc-melania-01-thgq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00dc-melania-01-thgq/00dc-melania-01-thgq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00dc-melania-01-thgq/00dc-melania-01-thgq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db509d9b-d1dd-5753-be0a-9e09f170a37a",
+      "url": "https://www.nytimes.com/2025/04/17/us/politics/lisa-murkowski-trump.html",
+      "id": 100000010116503,
+      "asset_id": 100000010116503,
+      "source": "New York Times",
+      "published_date": "2025-04-17",
+      "updated": "2025-05-01 02:19:31",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Murkowski, Lisa;Trump, Donald J;Republican Party;Senate;Alaska;United States",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "A Startling Admission From a G.O.P. Senator: ‘We Are All Afraid’",
+      "abstract": "Lisa Murkowski, a longtime senator from Alaska and an independent voice in an increasingly tribal party, has been the rare Republican on Capitol Hill willing to criticize President Trump’s actions.",
+      "des_facet": ["United States Politics and Government"],
+      "org_facet": ["Republican Party", "Senate"],
+      "per_facet": ["Murkowski, Lisa", "Trump, Donald J"],
+      "geo_facet": ["Alaska", "United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Lisa Murkowski, Republican of Alaska, in the Capitol earlier this year.",
+          "copyright": "Haiyun Jiang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-murkowski-lvwt/17trump-news-murkowski-lvwt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-murkowski-lvwt/17trump-news-murkowski-lvwt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-murkowski-lvwt/17trump-news-murkowski-lvwt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1d41dfc3-6337-5925-bc4d-9ce3ef94375d",
+      "url": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
+      "id": 100000010111788,
+      "asset_id": 100000010111788,
+      "source": "New York Times",
+      "published_date": "2025-04-16",
+      "updated": "2025-04-18 21:37:23",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Extraterrestrial Life;Space and Astronomy;Planets;James Webb Space Telescope;Research;Cambridge University;Astrophysical Journal Letters",
+      "column": null,
+      "byline": "By Carl Zimmer",
+      "type": "Article",
+      "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
+      "abstract": "Further studies are needed to determine whether K2-18b, which orbits a star 120 light-years away, is inhabited, or even habitable.",
+      "des_facet": [
+        "Extraterrestrial Life",
+        "Space and Astronomy",
+        "Planets",
+        "James Webb Space Telescope",
+        "Research"
+      ],
+      "org_facet": ["Cambridge University", "Astrophysical Journal Letters"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An artist’s conception of a Hycean exoplanet like K2-18b orbiting a red dwarf star.",
+          "copyright": "A. Smith, N. Madhusudhan/University of Cambridge",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5e2db0c8-daef-54c8-988a-9c59fb2dddaf",
+      "url": "https://www.nytimes.com/2025/04/13/us/politics/josh-shapiro-arson-attack-pennsylvania.html",
+      "id": 100000010108089,
+      "asset_id": 100000010108089,
+      "source": "New York Times",
+      "published_date": "2025-04-13",
+      "updated": "2025-04-15 05:26:58",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Arson;Politics and Government;Shapiro, Josh (1973- );Balmer, Cody A;Pennsylvania;Harrisburg (Pa)",
+      "column": null,
+      "byline": "By Edgar Sandoval, Jeremy W. Peters and Mike Ives",
+      "type": "Article",
+      "title": "Suspect Charged in Arson at Pennsylvania Governor’s Mansion",
+      "abstract": "A man was charged with setting fire to the residence, forcing Gov. Josh Shapiro and his family to flee. Investigators said they found beer bottles with gasoline inside the house.",
+      "des_facet": ["Arson", "Politics and Government"],
+      "org_facet": [],
+      "per_facet": ["Shapiro, Josh (1973- )", "Balmer, Cody A"],
+      "geo_facet": ["Pennsylvania", "Harrisburg (Pa)"],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2218a266-c242-5115-82b5-7fee2d94df0c",
+      "url": "https://www.nytimes.com/2025/04/24/opinion/trump-administration-energy-strength-weakness.html",
+      "id": 100000010126203,
+      "asset_id": 100000010126203,
+      "source": "New York Times",
+      "published_date": "2025-04-24",
+      "updated": "2025-04-30 23:29:18",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Presidential Power (US);Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "Trump’s Single Stroke of Brilliance",
+      "abstract": "His initiative has been the key to much of his success, but lacking any sense of prudence, he does not understand the difference between a risk and a gamble.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Power (US)"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Photo Illustration by Naila Ruechel for The New York Times.",
+          "copyright": "Photo Illustration by Naila Ruechel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/26/multimedia/24brooks-wzpc/24brooks-wzpc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/26/multimedia/24brooks-wzpc/24brooks-wzpc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/26/multimedia/24brooks-wzpc/24brooks-wzpc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8f61708a-fa7d-55ae-9bef-6b0dd2fd42c8",
+      "url": "https://www.nytimes.com/2025/04/17/opinion/trump-harvard-law-firms.html",
+      "id": 100000010115690,
+      "asset_id": 100000010115690,
+      "source": "New York Times",
+      "published_date": "2025-04-17",
+      "updated": "2025-05-01 17:33:28",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Authoritarianism (Theory and Philosophy);Presidential Power (US);Colleges and Universities;Legal Profession;United States Politics and Government;Demonstrations, Protests and Riots;Right-Wing Extremism and Alt-Right;Suits and Litigation (Civil);Academic Freedom;Trump, Donald J;Harvard University;Columbia University;Perkins Coie LLP",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "What’s Happening Is Not Normal. America Needs an Uprising That Is Not Normal.",
+      "abstract": "It will take a concerted effort by every sector of our society to respond to Trumpism’s threat.",
+      "des_facet": [
+        "Authoritarianism (Theory and Philosophy)",
+        "Presidential Power (US)",
+        "Colleges and Universities",
+        "Legal Profession",
+        "United States Politics and Government",
+        "Demonstrations, Protests and Riots",
+        "Right-Wing Extremism and Alt-Right",
+        "Suits and Litigation (Civil)",
+        "Academic Freedom"
+      ],
+      "org_facet": [
+        "Harvard University",
+        "Columbia University",
+        "Perkins Coie LLP"
+      ],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mario Tama/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/18/multimedia/17brooks1-kjbl/17brooks1-kjbl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/18/multimedia/17brooks1-kjbl/17brooks1-kjbl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/18/multimedia/17brooks1-kjbl/17brooks1-kjbl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c8f931cc-c28d-57a3-bae6-63b7460579cf",
+      "url": "https://www.nytimes.com/2025/04/13/magazine/adhd-medication-treatment-research.html",
+      "id": 100000010095287,
+      "asset_id": 100000010095287,
+      "source": "New York Times",
+      "published_date": "2025-04-13",
+      "updated": "2025-04-23 08:35:39",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Attention Deficit Hyperactivity Disorder;Psychiatry and Psychiatrists;Research;Brain;Ritalin (Drug);Teenagers and Adolescence;Adderall (Drug);Parenting;Learning Disabilities;Children and Childhood;internal-audio-rules",
+      "column": null,
+      "byline": "By Paul Tough",
+      "type": "Article",
+      "title": "Have We Been Thinking About A.D.H.D. All Wrong?",
+      "abstract": "With diagnoses at a record high, some experts have begun to question our assumptions about the condition — and how to treat it.",
+      "des_facet": [
+        "Attention Deficit Hyperactivity Disorder",
+        "Psychiatry and Psychiatrists",
+        "Research",
+        "Brain",
+        "Ritalin (Drug)",
+        "Teenagers and Adolescence",
+        "Adderall (Drug)",
+        "Parenting",
+        "Learning Disabilities",
+        "Children and Childhood",
+        "internal-audio-rules"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustrations by Todd St. John",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd/20mag-adhd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd/20mag-adhd-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd/20mag-adhd-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/423db03c-02de-51b8-883a-70dfc6f78460",
+      "url": "https://www.nytimes.com/2025/05/06/world/asia/india-pakistan-attacks.html",
+      "id": 100000010132881,
+      "asset_id": 100000010132881,
+      "source": "New York Times",
+      "published_date": "2025-05-06",
+      "updated": "2025-05-09 00:07:14",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "War and Armed Conflicts;Defense and Military Forces;International Relations;Terrorism;Territorial Disputes;India;Pakistan;Kashmir;Kashmir and Jammu (India)",
+      "column": null,
+      "byline": "By Mujib Mashal, Hari Kumar and Salman Masood",
+      "type": "Article",
+      "title": "India Strikes Pakistan but Is Said to Have Lost Aircraft",
+      "abstract": "Officials and witnesses said that at least two Indian aircraft had crashed after India struck Pakistani targets, escalating the conflict between the nuclear powers.",
+      "des_facet": [
+        "War and Armed Conflicts",
+        "Defense and Military Forces",
+        "International Relations",
+        "Terrorism",
+        "Territorial Disputes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "India",
+        "Pakistan",
+        "Kashmir",
+        "Kashmir and Jammu (India)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/abf75a2a-b4a5-5046-9826-cc063ca5c77c",
+      "url": "https://www.nytimes.com/2025/04/28/us/politics/supreme-court-lawyer-standing-ovation.html",
+      "id": 100000010131442,
+      "asset_id": 100000010131442,
+      "source": "New York Times",
+      "published_date": "2025-04-28",
+      "updated": "2025-04-30 15:29:52",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Legal Profession;Solicitors General;Law and Legislation;Courts and the Judiciary;United States Politics and Government;Kneedler, Edwin S;Justice Department;Supreme Court (US)",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "A ‘Citizen Lawyer’ Gets a Standing Ovation at the Supreme Court",
+      "abstract": "In a remarkable scene, the justices applauded Edwin S. Kneedler, a government lawyer with a reputation for candor, care and integrity.",
+      "des_facet": [
+        "Legal Profession",
+        "Solicitors General",
+        "Law and Legislation",
+        "Courts and the Judiciary",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Justice Department", "Supreme Court (US)"],
+      "per_facet": ["Kneedler, Edwin S"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Edwin S. Kneedler in 2008. He joined the Office of the Solicitor General, the elite unit of the Justice Department that represents the federal government in the Supreme Court, in 1979.",
+          "copyright": "Andy Cross/The Denver Post, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28dc-bar-2/28dc-bar-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28dc-bar-2/28dc-bar-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28dc-bar-2/28dc-bar-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/81e77b5d-aa21-5864-b271-f374bf5bd196",
+      "url": "https://www.nytimes.com/2025/04/21/us/politics/kristi-noem-purse-stolen.html",
+      "id": 100000010121717,
+      "asset_id": 100000010121717,
+      "source": "New York Times",
+      "published_date": "2025-04-21",
+      "updated": "2025-05-01 22:48:23",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Robberies and Thefts;United States Politics and Government;Noem, Kristi;Homeland Security Department;Washington (DC)",
+      "column": null,
+      "byline": "By Victor Mather",
+      "type": "Article",
+      "title": "Kristi Noem’s Bag, With Security Badge and $3,000, Is Stolen",
+      "abstract": "The homeland security secretary was dining at a Washington, D.C., restaurant. She also lost her passport and keys.",
+      "des_facet": [
+        "Robberies and Thefts",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Homeland Security Department"],
+      "per_facet": ["Noem, Kristi"],
+      "geo_facet": ["Washington (DC)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A handbag belonging to Kristi Noem, the secretary of the Department of Homeland Security, was stolen at a Washington restaurant on Easter.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21xp-Kristi-Noem-gtcf/21xp-Kristi-Noem-gtcf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21xp-Kristi-Noem-gtcf/21xp-Kristi-Noem-gtcf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21xp-Kristi-Noem-gtcf/21xp-Kristi-Noem-gtcf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/18f0c381-7f68-5b50-8e0e-fa05cee2377a",
+      "url": "https://www.nytimes.com/2025/04/23/well/dementia-stroke-depression-prevention.html",
+      "id": 100000010106709,
+      "asset_id": 100000010106709,
+      "source": "New York Times",
+      "published_date": "2025-04-23",
+      "updated": "2025-04-28 23:28:20",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Brain;Stroke;Diet and Nutrition;Depression (Mental);Dementia;Research;Friendship;Sleep;Content Type: Service",
+      "column": null,
+      "byline": "By Nina Agrawal",
+      "type": "Article",
+      "title": "17 Ways to Cut Your Risk of Stroke, Dementia and Depression All at Once",
+      "abstract": "A new study identified overlapping factors that affect your odds of developing these brain diseases late in life.",
+      "des_facet": [
+        "Brain",
+        "Stroke",
+        "Diet and Nutrition",
+        "Depression (Mental)",
+        "Dementia",
+        "Research",
+        "Friendship",
+        "Sleep",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lucy Jones",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/29/well/23WELL-PREVENTION-BRAIN-DISEASES/23WELL-PREVENTION-BRAIN-DISEASES-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/29/well/23WELL-PREVENTION-BRAIN-DISEASES/23WELL-PREVENTION-BRAIN-DISEASES-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/29/well/23WELL-PREVENTION-BRAIN-DISEASES/23WELL-PREVENTION-BRAIN-DISEASES-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9240204d-3b4a-5350-bd6c-f3c7c08f4ab9",
+      "url": "https://www.nytimes.com/2025/05/08/magazine/bill-gates-foundation-closing-2045.html",
+      "id": 100000010146540,
+      "asset_id": 100000010146540,
+      "source": "New York Times",
+      "published_date": "2025-05-08",
+      "updated": "2025-05-09 11:31:23",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Foreign Aid;Philanthropy;Developing Countries;Medicine and Health;Humanitarian Aid;United States Politics and Government;Vaccination and Immunization;Epidemics;Children and Childhood;Deaths (Fatalities);Content Type: Personal Profile;Gates, Bill;Trump, Donald J;Gates, Melinda;Gates, Bill and Melinda, Foundation;Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "column": null,
+      "byline": "By David Wallace-Wells",
+      "type": "Article",
+      "title": "The $200 Billion Gamble: Bill Gates’s Plan to Wind Down His Foundation",
+      "abstract": "In a wide-ranging interview, he explains his decision — amid the Trump administration’s assault on foreign aid — to accelerate the end of his giving.",
+      "des_facet": [
+        "Foreign Aid",
+        "Philanthropy",
+        "Developing Countries",
+        "Medicine and Health",
+        "Humanitarian Aid",
+        "United States Politics and Government",
+        "Vaccination and Immunization",
+        "Epidemics",
+        "Children and Childhood",
+        "Deaths (Fatalities)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Gates, Bill and Melinda, Foundation",
+        "Global Fund to Fight AIDS, Tuberculosis and Malaria"
+      ],
+      "per_facet": ["Gates, Bill", "Trump, Donald J", "Gates, Melinda"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“I think it’s objective to say to you that things will be better in the next 20 years.”",
+          "copyright": "Katy Grannan for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/05/18/magazine/18mag-gates-02/18mag-gates-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/05/18/magazine/18mag-gates-02/18mag-gates-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/05/18/magazine/18mag-gates-02/18mag-gates-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/0b3b24cf-85d7-52f0-8653-d72c5f1ab784",
+      "url": "https://www.nytimes.com/interactive/2025/04/28/world/canada/results-canada-federal-election.html",
+      "id": 100000010129651,
+      "asset_id": 100000010129651,
+      "source": "New York Times",
+      "published_date": "2025-04-28",
+      "updated": "2025-05-12 11:53:50",
+      "section": "World",
+      "subsection": "Canada",
+      "nytdsection": "world",
+      "adx_keywords": "Elections;internal-paywall-exempt;Canada",
+      "column": null,
+      "byline": "By Joel Eastwood, Martín González Gómez, K.K. Rebecca Lai, Eric Rabinowitz, Matina Stevis-Gridneff, Urvashi Uberoy and Christine Zhang",
+      "type": "Interactive",
+      "title": "2025 Canada Federal Election Live Results: Liberals Win",
+      "abstract": "Canadians are heading to the polls today to elect their members of Parliament. First polls close at 7 p.m. Eastern.",
+      "des_facet": ["Elections", "internal-paywall-exempt"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Canada"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-thumbStandard-v3.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-mediumThreeByTwo210-v3.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-mediumThreeByTwo440-v3.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c8be0ed1-f26e-5595-81ed-1ffd4ce186d5",
+      "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-dead.html",
+      "id": 100000007609786,
+      "asset_id": 100000007609786,
+      "source": "New York Times",
+      "published_date": "2025-04-21",
+      "updated": "2025-04-22 14:18:31",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Deaths (Obituaries);Popes;Religion and Belief;Christians and Christianity;Francis;Benedict XVI;Roman Catholic Church;Argentina;Latin America",
+      "column": null,
+      "byline": "By Jason Horowitz and Jim Yardley",
+      "type": "Article",
+      "title": "Francis, the First Latin American Pope, Dies at 88",
+      "abstract": "After decades of conservative leadership, Francis tried to reset the course of the Roman Catholic Church, emphasizing inclusion and care for the marginalized over doctrinal purity.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Popes",
+        "Religion and Belief",
+        "Christians and Christianity"
+      ],
+      "org_facet": ["Roman Catholic Church"],
+      "per_facet": ["Francis", "Benedict XVI"],
+      "geo_facet": ["Argentina", "Latin America"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Francisco visitando a los migrantes en Lesbos, Grecia, en 2021. Dijo que recibir al extranjero en la puerta es algo fundamental para la fe.",
+          "copyright": "Alessandro Di Meo/EPA, vía Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/04/03/espanol/00francis-cqzh-ES-copy1/00francis-cqzh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/03/espanol/00francis-cqzh-ES-copy1/00francis-cqzh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/04/03/espanol/00francis-cqzh-ES-copy1/00francis-cqzh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4b61bf95-2148-5e3c-ac37-1e4a5c28e30a",
+      "url": "https://www.nytimes.com/2025/04/22/business/media/cbs-60-minutes-trump-bill-owens.html",
+      "id": 100000010123699,
+      "asset_id": 100000010123699,
+      "source": "New York Times",
+      "published_date": "2025-04-22",
+      "updated": "2025-04-28 15:29:54",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "News and News Media;Television;Freedom of the Press;United States Politics and Government;Appointments and Executive Changes;Mergers, Acquisitions and Divestitures;Suits and Litigation (Civil);Owens, Bill (Television Executive);Redstone, Shari;Trump, Donald J;CBS News;Paramount Global;CBS Corporation;Skydance Productions LLC",
+      "column": null,
+      "byline": "By Michael M. Grynbaum and Benjamin Mullin",
+      "type": "Article",
+      "title": "‘60 Minutes’ Chief Resigns in Emotional Meeting: ‘The Company Is Done With Me’",
+      "abstract": "The news program has faced mounting pressure from both President Trump and its corporate ownership at Paramount, the parent company of CBS News.",
+      "des_facet": [
+        "News and News Media",
+        "Television",
+        "Freedom of the Press",
+        "United States Politics and Government",
+        "Appointments and Executive Changes",
+        "Mergers, Acquisitions and Divestitures",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "CBS News",
+        "Paramount Global",
+        "CBS Corporation",
+        "Skydance Productions LLC"
+      ],
+      "per_facet": [
+        "Owens, Bill (Television Executive)",
+        "Redstone, Shari",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bill Owens, who was the executive producer of “60 Minutes,” in 2022. He said in February that he would not apologize as part of any prospective settlement in President Trump’s lawsuit against CBS News. ",
+          "copyright": "Piaras Ó Mídheach/Sportsfile for Collision, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-cbs-zbgt/22biz-cbs-zbgt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-cbs-zbgt/22biz-cbs-zbgt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-cbs-zbgt/22biz-cbs-zbgt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
