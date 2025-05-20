@@ -1,6 +1,14 @@
 import styles from "./Header.module.css";
 import { useState } from "react";
 import { Link } from "react-router";
+import {
+  CloseIcon,
+  HomeIcon,
+  MenuIcon,
+  PhoneIcon,
+  ProfileIcon,
+  ProjectsIcon,
+} from "../../assets/Icons";
 
 export default function Header() {
   const [active, setActive] = useState(false);
@@ -23,21 +31,25 @@ export default function Header() {
             <ul className={active ? styles.menuList : styles.hiddenMenuList}>
               <li className={styles.menuItem} onClick={toggleMenu}>
                 <Link className={styles.link} to="/">
+                  <HomeIcon style={styles.menuSVG} />
                   Home
                 </Link>
               </li>
               <li className={styles.menuItem} onClick={toggleMenu}>
                 <Link className={styles.link} to="/about">
+                  <ProfileIcon style={styles.menuSVG} />
                   About
                 </Link>
               </li>
               <li className={styles.menuItem} onClick={toggleMenu}>
                 <Link className={styles.link} to="/projects">
+                  <ProjectsIcon style={styles.menuSVG} />
                   Projects
                 </Link>
               </li>
               <li className={styles.menuItem} onClick={toggleMenu}>
                 <Link className={styles.link} to="/contact">
+                  <PhoneIcon style={styles.menuSVG} />
                   Contact
                 </Link>
               </li>
@@ -46,35 +58,9 @@ export default function Header() {
           <div className={styles.menuButtonSection}>
             <button className={styles.menuButton} onClick={toggleMenu}>
               {active ? (
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  strokeWidth={1.5}
-                  stroke="currentColor"
-                  className={styles.menuSVG}
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M6 18 18 6M6 6l12 12"
-                  />
-                </svg>
+                <CloseIcon style={styles.menuSVG} />
               ) : (
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  strokeWidth={1.5}
-                  stroke="currentColor"
-                  className={styles.menuSVG}
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
-                  />
-                </svg>
+                <MenuIcon style={styles.menuSVG} />
               )}
             </button>
           </div>

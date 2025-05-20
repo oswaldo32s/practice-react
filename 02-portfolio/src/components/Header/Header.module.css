@@ -72,8 +72,14 @@
 .link {
   height: 100%;
   display: flex;
+  gap: 10px;
   align-items: center;
-  padding: 0 20px;
+  padding: 0 1em;
+}
+
+.menuSVG {
+  display: block;
+  width: 1.5em;
 }
 
 @media only screen and (max-width: 800px) {
@@ -115,10 +121,5 @@
     background-color: #00000000;
     border: none;
     cursor: pointer;
-  }
-
-  .menuSVG {
-    display: block;
-    width: 2em;
   }
 }
