@@ -7,9 +7,7 @@ export default function Home() {
     <main className={styles.home}>
       <section>
         <h2 className={styles.title}>Oswaldo Gonzalez</h2>
-        <h3 className={styles.jobTitle}>
-          Analytics Engineer | Software Developer
-        </h3>
+        <h3 className={styles.jobTitle}>Data Engineer | Software Developer</h3>
         <p className={styles.quote}>
           <em>Turning Data into insight, and insight into code.</em>
         </p>
